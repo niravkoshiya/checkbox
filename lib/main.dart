@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   String r1="cricket";
   String r2="khokho";
   String r3="music";
-  String grpvalue="";
+  String grpvalue="khokho";
 
 
     @override
